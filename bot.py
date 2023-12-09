@@ -4,7 +4,7 @@ from pysondb import db
 import json
 
 
-DEFAULT_MODE = "x2"
+DEFAULT_MODE = 2
 
 
 class DataBase:

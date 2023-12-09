@@ -1,0 +1,4 @@
+docker build -t esrgan .
+docker run -it --rm  --gpus=all esrgan
+
+docker run -it --rm  --gpus=all --mount src="C:\Users\acer\Desktop\Real-ESRGAN-main\results",target=/app/results,type=bind esrgan
