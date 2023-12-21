@@ -44,28 +44,28 @@ Resolution, основанный на генеративно-состязате�
 
 Исходное изображение
 
-![](inputs/lr_groot.jpg)
+![](inputs/lr_ana.jpg)
 
 Результат применения Real-ESRGAN
 
-![](results/sr_groot.jpg)
+![](results/sr_ana.jpg)
 
 ---
 
 Исходное изображение
 
-![](inputs/lr_irbis.jpg)
+![](inputs/lr_jag.jpg)
 
 Результат применения Real-ESRGAN
 
-![](results/sr_irbis.jpg)
+![](results/sr_jag.jpg)
 
 ---
 
 Исходное изображение
 
-![](inputs/lr_image.jpg)
+![](inputs/lr_mountains.jpg)
 
 Результат применения Real-ESRGAN
 
-![](results/sr_image.jpg)
+![](results/sr_mountains.jpg)
